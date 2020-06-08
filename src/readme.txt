@@ -1,0 +1,3 @@
+recommend to use vscode to open the file and run. the main.py is the programme to report the accuracy of the prediction using "test.csv". the other py file is the programme for building the CART. it contains a small programme for fingdign the gini number, it also contains the calsscification progreess and the tracking of data.
+
+IMPORTANT: Before running the programme, please make sure that you have changed the file name into current file location in the line 6 of the programme. Thank you.
